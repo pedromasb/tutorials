@@ -2,7 +2,7 @@
 
 This repository was born out of the spirit of sharing useful Python features, mainly related to data science and analysis, that I have come across. With this in mind, the notebooks will use a practical case to show these features so that anyone can discover and benefit from them.
 
-I will also collect here tutorials built during my research in astrophysics and data science.
+I will also collect here tutorials or projects developed during my research in astrophysics and data science.
 
 Enjoy them! 👋
 
