@@ -1,1 +1,10 @@
-
+notebook
+astropy
+astroquery
+numpy
+pandas
+matplotlib
+pyvo
+mocpy==0.8.5
+cdshealpix
+plotly
