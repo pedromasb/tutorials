@@ -13,6 +13,8 @@ Enjoy them! 👋
 
 This tutorial explores the usage of PyVO and MOCPy, two powerful products for accesing the [Virtual Observatory](https://ivoa.net/) from Python. It was developed for the schools organized by the Spanish Virutal Observatory ([SVO](https://svo.cab.inta-csic.es/docs/index.php?pagename=Meetings)).
 
+<br/>
+
 ### Dimensionality Reduction for Data Visualization With Python
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](notebooks/dimreduction_solarspots.ipynb) [![Google Colab Badge](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mL6W7jnn0CSsySdUtBqa_O6FQ7xsJmNd?usp=sharing)
 
