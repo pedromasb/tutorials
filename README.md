@@ -19,3 +19,10 @@ This tutorial explores the usage of PyVO and MOCPy, two powerful products for ac
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](notebooks/dimreduction_solarspots.ipynb) [![Google Colab Badge](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mL6W7jnn0CSsySdUtBqa_O6FQ7xsJmNd?usp=sharing)
 
 In this brief tutorial, we will explore the use of dimensionality reduction focused on finding a good visualization of our global data context. We will build our use case around the data provided by the Sunspot Index and Long-term Solar Observations ([SILSO](https://www.sidc.be/silso/home)) on the monthly mean total sunspot number, which is obtained as a simple arithmetic mean of the daily value. You can see more info on how the daily total sunspot number (Wolf number) is derived [here](https://www.sidc.be/silso/infosndtot).
+
+<br/>
+
+### Using Grid Search For Autoencoder Hyperparameter Tuning
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](notebooks/gridsearch_autoencoder.ipynb) [![Google Colab Badge](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gKjQbwJ7HUwHbZMESLgyIP2kA-Me9wB1?usp=sharing)
+
+In this brief tutorial, we will see how we can use the grid search tuning technique for the hyperparameter optimization of a deep sparse autoencoder. You can learn about how autoencoders work [here](https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798). We will use the well known [MNIST](http://yann.lecun.com/exdb/mnist/) database of handwritten digits, which is available through the ``tensorflow.keras.datasets`` module.
