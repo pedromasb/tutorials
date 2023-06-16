@@ -1,0 +1,38 @@
+<?xml version='1.0'?>
+<VOTABLE version="1.4"
+ xmlns="http://www.ivoa.net/xml/VOTable/v1.3">
+<!--
+ !  VOTable written by STIL version 4.0 (uk.ac.starlink.votable.VOTableWriter)
+ !  at 2023-06-16T10:07:31
+ !-->
+<RESOURCE>
+<TABLE name="/pcdisk/curie/pmas/Documents/ENRIQUE/UCD_Candidates_Search/JPAS/all_objects.csv" nrows="5">
+<FIELD datatype="double" name="alpha_j2000"/>
+<FIELD datatype="double" name="delta_j2000"/>
+<DATA>
+<TABLEDATA>
+  <TR>
+    <TD>213.76775</TD>
+    <TD>52.502945</TD>
+  </TR>
+  <TR>
+    <TD>214.72388</TD>
+    <TD>52.693287</TD>
+  </TR>
+  <TR>
+    <TD>214.72052</TD>
+    <TD>52.695225</TD>
+  </TR>
+  <TR>
+    <TD>214.7214</TD>
+    <TD>52.69424</TD>
+  </TR>
+  <TR>
+    <TD>215.28151</TD>
+    <TD>53.023987</TD>
+  </TR>
+</TABLEDATA>
+</DATA>
+</TABLE>
+</RESOURCE>
+</VOTABLE>
