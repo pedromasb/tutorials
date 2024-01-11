@@ -27,6 +27,8 @@ In this brief tutorial, we will explore the use of dimensionality reduction focu
 
 In this brief tutorial, we will see how we can use the grid search tuning technique for the hyperparameter optimization of a deep sparse autoencoder. You can learn about how autoencoders work [here](https://towardsdatascience.com/applied-deep-learning-part-3-autoencoders-1c083af4d798). We will use the well known [MNIST](http://yann.lecun.com/exdb/mnist/) database of handwritten digits, which is available through the ``tensorflow.keras.datasets`` module.
 
+<br/>
+
 ### Interactive Plotting With Python: From Zero to Hero 🚀
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](notebooks/interactive_viz_python.ipynb) &nbsp; [![Google Colab Badge](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ENG47JiT2q4pi21enoUN-_l4--v8TL8P?usp=sharing)
 
